@@ -1,3 +1,5 @@
+Backend can be hosted using render and fronted by using hostinger
+
 
 Basic preview
 ![image](https://github.com/rajath008/ai-image-generator-website-mern/assets/106469287/339c6bf4-4af8-46c9-ad4c-ae4faf934f50)
